@@ -1,1 +1,1 @@
-alert("testing 12 12");
+import '../styles/styles.css';
